@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">Junior Backend Developer | .NET Core & OOP Enthusiast</h3>
+<h3 align="center">Software Engineer | .NET Core & Backend Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/hasan-doğan-68504029b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Software Engineering** öğrencisiyim.
-- 🎯 Ana odak noktam **.NET Core** ile ölçeklenebilir Backend sistemler geliştirmek.
-- 🏗️ **Nesne Tabanlı Programlama (OOP)** prensiplerini ve temiz kod (Clean Code) mimarilerini derinlemesine öğreniyorum.
-- 🛡️ Veritabanı yönetimi ve API tasarımı üzerine projeler geliştiriyorum.
+- 🎓 **Yazılım Mühendisliği** mezunuyum.
+- 🎯 Ana odak noktam **.NET Core** ekosistemi ile performanslı, güvenli ve ölçeklenebilir Backend sistemler geliştirmek.
+- 🏗️ **Clean Architecture**, **SOLID** prensipleri ve **Design Patterns** doğrultusunda sürdürülebilir ve test edilebilir kod mimarileri tasarlıyorum.
+- 🛠️ Relational DB (MSSQL) yönetimi, API tasarımı ve konteynerleştirme (Docker) üzerine projeler üretiyorum.
 
 ---
 
@@ -28,8 +28,8 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Tools & Others**
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-Focus-blue?style=for-the-badge)
+**Tools & Practices**
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Focus-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasandogan0&theme=github-dark" alt="hdqn streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdqn&theme=github-dark" alt="hdqn streak" />
 </p>
 
 <p align="center">
