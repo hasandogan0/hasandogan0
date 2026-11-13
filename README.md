@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdqn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Hasan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hdqn&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=html,css,javascript,arduino,php" alt="Hasan's Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasandogan0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Hasan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasandogan0&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=html,css,javascript,arduino,php" alt="Hasan's Top Langs" height="180px" />
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasandogam0/hasandogan0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasandogan0/hasandogan0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasandogan0/hasandogan0/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
